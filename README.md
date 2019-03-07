@@ -21,7 +21,7 @@ Running on Unity 2017.4.6f1
 -----------------------------
 Loading plugins from G:\Games\Steam\steamapps\common\SynthRiders\Plugins and found 1
 -----------------------------
- Synth Riders Plugin Basic: 0.0.1
+Synth Riders Plugin Basic: 0.0.1
 -----------------------------
 [SynthRidersPluginBasic] Hooking into activeSceneChanged
 [SynthRidersPluginBasic] Hooking into SceneLoaded
