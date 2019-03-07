@@ -16,18 +16,34 @@ Run Synthriders with --verbose to confirm it works
 
 You should see something similar to the following upon starting the game and seeing the Warning Screen:
 
-> SynthRiders
-> Running on Unity 2017.4.6f1
-> -----------------------------
-> Loading plugins from G:\Games\Steam\steamapps\common\SynthRiders\Plugins and found 1
-> -----------------------------
-> Synth Riders Plugin Basic: 0.0.1
-> -----------------------------
-> [SynthRidersPluginBasic] Hooking into activeSceneChanged
-> [SynthRidersPluginBasic] Hooking into SceneLoaded
-> Setting breakpad minidump AppID = 885000
-> Steam_SetMinidumpSteamID:  Caching Steam ID:  76561197967433797 [API loaded no]
-> [SynthRidersPluginBasic] Active Scene Changed:  to 0.AWarning
-> [SynthRidersPluginBasic] Scene Loaded: 0.AWarning 2
-> [SynthRidersPluginBasic] Loaded Level #0
-> [SynthRidersPluginBasic] Initialized Level #0
+
+SynthRiders
+
+Running on Unity 2017.4.6f1
+
+-----------------------------
+
+Loading plugins from G:\Games\Steam\steamapps\common\SynthRiders\Plugins and found 1
+
+-----------------------------
+
+Synth Riders Plugin Basic: 0.0.1
+
+-----------------------------
+
+[SynthRidersPluginBasic] Hooking into activeSceneChanged
+
+[SynthRidersPluginBasic] Hooking into SceneLoaded
+
+Setting breakpad minidump AppID = 885000
+
+Steam_SetMinidumpSteamID:  Caching Steam ID:  76561197967433797 [API loaded no]
+
+[SynthRidersPluginBasic] Active Scene Changed:  to 0.AWarning
+
+[SynthRidersPluginBasic] Scene Loaded: 0.AWarning 2
+
+[SynthRidersPluginBasic] Loaded Level #0
+
+[SynthRidersPluginBasic] Initialized Level #0
+
