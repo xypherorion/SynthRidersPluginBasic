@@ -2,7 +2,7 @@
 A Basic SynthRiders Plugin
 
 Requirements:
-Synth Riders
+Synth Riders, Harmony
 
 Harmony (https://github.com/pardeike/Harmony)
 Ensure that you select (as of this writing) .NET 3.5 in the project options
